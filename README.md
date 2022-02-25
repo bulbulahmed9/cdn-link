@@ -1,5 +1,5 @@
-# cdn-link
-cdn link for tutorial
+# CDN Link
+CDN link for tutorial
 
 
 # Google font
